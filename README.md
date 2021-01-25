@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on 1037...\
+- 🔭 I’m currently working on 1037...
 
 
 <!--
