@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on 1037...
+- 🔭 I’m currently working on 1037
+
+- 📫 How to reach me: [here](mailto:yinzeyuan1037@gmail.com)
+
 
 
 <!--
