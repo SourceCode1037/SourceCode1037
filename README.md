@@ -5,8 +5,12 @@
 - 📫 How to reach me: [here](mailto:yinzeyuan1037@gmail.com)
 
 
-
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SourceCode1037&layout=compact&line_height=20)](https://github.com/anuraghazra/github-readme-stats)
+
+
+-->
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=SourceCode1037&count_private=false&show_icons=true&theme=default&line_height=20)](https://github.com/anuraghazra/github-readme-stats)
 
 
